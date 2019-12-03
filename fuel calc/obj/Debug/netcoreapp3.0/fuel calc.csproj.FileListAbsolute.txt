@@ -1,0 +1,12 @@
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\bin\Debug\netcoreapp3.0\fuel calc.exe
+C:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\bin\Debug\netcoreapp3.0\fuel calc.deps.json
+C:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\bin\Debug\netcoreapp3.0\fuel calc.runtimeconfig.json
+C:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\bin\Debug\netcoreapp3.0\fuel calc.runtimeconfig.dev.json
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\bin\Debug\netcoreapp3.0\fuel calc.dll
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\bin\Debug\netcoreapp3.0\fuel calc.pdb
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\obj\Debug\netcoreapp3.0\fuel calc.csprojAssemblyReference.cache
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\obj\Debug\netcoreapp3.0\fuel calc.csproj.CoreCompileInputs.cache
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\obj\Debug\netcoreapp3.0\fuel calc.AssemblyInfoInputs.cache
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\obj\Debug\netcoreapp3.0\fuel calc.AssemblyInfo.cs
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\obj\Debug\netcoreapp3.0\fuel calc.dll
+c:\Users\whisl\OneDrive\Documents\Advent of Code 2019\fuel calc\obj\Debug\netcoreapp3.0\fuel calc.pdb
