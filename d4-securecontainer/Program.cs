@@ -8,6 +8,7 @@ namespace d4_securecontainer
     {
         static void Main(string[] args)
         {
+            var watch = System.Diagnostics.Stopwatch.StartNew();
             Console.WriteLine("Calculating possible passwords.");
             Regex rxDouble = new Regex(@"(\d)\1+");
             Regex rxIncreasing = new Regex(@"^(?=\d{6}$)0*?1*?2*?3*?4*?5*?6*?7*?8*?9*?$");
@@ -31,8 +32,10 @@ namespace d4_securecontainer
                     }
                 }
             }
+            watch.Stop();
             System.Console.WriteLine($"Part 1 Result: {count1}");
             System.Console.WriteLine($"Part 2 Result: {count2}");
+            System.Console.WriteLine($"Execution time: {watch.Elapsed}");
         }
     }
 }
